@@ -1,0 +1,1 @@
+This is an example of how a corrupt file can be injected into the main branch.
